@@ -1,7 +1,7 @@
 # multiplication_node_express_html
 
 ```bash
-  npm install express
+ npm install express
  ```
   ```bash
   npm install body-parser
